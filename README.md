@@ -2,7 +2,7 @@
 
 ### Lien du télechargement du dataset initial: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
-Les scripts du notebook explore_clean_usa_tranport.ipynb permettent d'explorer et de nettoyer le jeu de données et de créer un nouveau fichier CSV contenant les données à jour.
+Les scripts du notebook #####explore_clean_usa_tranport.ipynb permettent d'explorer et de nettoyer le jeu de données et de créer un nouveau fichier CSV contenant les données à jour.
 
 NB: L'execution de explore_clean_usa_tranport.ipynb necessite la mise en place d'un environement Docker adéquat voir la partie 2 du rapport.
 
