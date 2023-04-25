@@ -9,4 +9,6 @@ NB: L'execution de 'explore_clean_usa_tranport.ipynb' necessite la mise en place
 Les scripts du notebook 'analyse_usa_transport.ipynb' permettent de faire une analyse descriptive et prédictive du nouveau dataset.  
 
 
-### Lien vers le rapport: https://docs.google.com/document/d/12k3XCnF1rAh3qZK_eIB0ukSZfVui-z446tUvil3RlU4/edit#
+### Lien pour le rapport: https://docs.google.com/document/d/12k3XCnF1rAh3qZK_eIB0ukSZfVui-z446tUvil3RlU4/edit#
+
+### Lien pour la presentation: https://docs.google.com/presentation/d/1BvrhUHe_LL6nTQeUoFWVowoq2j2HAOZgn6WIt2xA3zI/edit
