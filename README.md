@@ -9,10 +9,10 @@ Les scripts du notebook 'analyse_usa_transport.ipynb' permettent de faire une an
 ### Lien du télechargement du dataset initial: 
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
-### Lien pour le rapport: 
+### Lien pour le rapport final: 
 https://docs.google.com/document/d/12k3XCnF1rAh3qZK_eIB0ukSZfVui-z446tUvil3RlU4/edit#
 
-### Lien pour la presentation:
+### Lien pour le support de presentation:
 https://docs.google.com/presentation/d/1BvrhUHe_LL6nTQeUoFWVowoq2j2HAOZgn6WIt2xA3zI/edit
 
 
