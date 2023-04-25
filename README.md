@@ -13,6 +13,6 @@ Les scripts du notebook 'explore_clean_usa_tranport.ipynb' permettent d'explorer
 
 NB: L'execution de 'explore_clean_usa_tranport.ipynb' necessite la mise en place d'un environement Docker adéquat voir la partie 2 du rapport.
 
-Les scripts du notebook 'analyse_usa_transport.ipynb' permettent de faire une analyse descriptive et prédictive du nouveau dataset.  
+Les scripts du notebook 'analyse_usa_transport.ipynb' permettent de faire une analyse descriptive et prédictive du nouveau dataset s
 
 
